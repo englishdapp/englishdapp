@@ -5,6 +5,7 @@
   "homepage": "http://englishdapp.github.io/englishdapp",
   "dependencies": {
     "antd": "^3.19.2",
+    "gh-pages": "^2.0.1",
     "icon-sdk-js": "^0.0.16",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
