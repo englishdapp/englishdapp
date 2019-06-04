@@ -62,10 +62,10 @@ function App() {
 
   async function updatePrice() {
     console.log(selectedAcademy, priceToUpdate)
-    if(myAddress == ''){
-      alert("지갑을 연동하세요.")
-      return
-    }
+    // if(myAddress == ''){
+    //   alert("지갑을 연동하세요.")
+    //   return
+    // }
 
     const txObj = SDK.sendTxBuild({
       from: myAddress,
