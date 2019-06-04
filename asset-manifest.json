@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/englishdapp/static/css/main.bfd32dbe.chunk.css",
-    "main.js": "/englishdapp/static/js/main.6953d6bf.chunk.js",
-    "main.js.map": "/englishdapp/static/js/main.6953d6bf.chunk.js.map",
+    "main.js": "/englishdapp/static/js/main.c79f1ba7.chunk.js",
+    "main.js.map": "/englishdapp/static/js/main.c79f1ba7.chunk.js.map",
     "runtime~main.js": "/englishdapp/static/js/runtime~main.456427fc.js",
     "runtime~main.js.map": "/englishdapp/static/js/runtime~main.456427fc.js.map",
     "static/css/2.c17ff19c.chunk.css": "/englishdapp/static/css/2.c17ff19c.chunk.css",
     "static/js/2.c0829146.chunk.js": "/englishdapp/static/js/2.c0829146.chunk.js",
     "static/js/2.c0829146.chunk.js.map": "/englishdapp/static/js/2.c0829146.chunk.js.map",
     "index.html": "/englishdapp/index.html",
-    "precache-manifest.a5089f5aaa0a8b6e7fc15bed16f350a5.js": "/englishdapp/precache-manifest.a5089f5aaa0a8b6e7fc15bed16f350a5.js",
+    "precache-manifest.3be8dca68695047780cd428a7bc3465f.js": "/englishdapp/precache-manifest.3be8dca68695047780cd428a7bc3465f.js",
     "service-worker.js": "/englishdapp/service-worker.js",
     "static/css/2.c17ff19c.chunk.css.map": "/englishdapp/static/css/2.c17ff19c.chunk.css.map",
     "static/css/main.bfd32dbe.chunk.css.map": "/englishdapp/static/css/main.bfd32dbe.chunk.css.map",

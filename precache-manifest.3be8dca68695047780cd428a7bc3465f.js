@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b03c9b8e45feb412110d6dc99a09756d",
+    "revision": "c344213b71d6b79ab227f441cb84a795",
     "url": "/englishdapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/englishdapp/static/css/2.c17ff19c.chunk.css"
   },
   {
-    "revision": "8ae5753584302567967b",
+    "revision": "7ce1f26be66cb74b5c1d",
     "url": "/englishdapp/static/css/main.bfd32dbe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/englishdapp/static/js/2.c0829146.chunk.js"
   },
   {
-    "revision": "8ae5753584302567967b",
-    "url": "/englishdapp/static/js/main.6953d6bf.chunk.js"
+    "revision": "7ce1f26be66cb74b5c1d",
+    "url": "/englishdapp/static/js/main.c79f1ba7.chunk.js"
   },
   {
     "revision": "d718c11382ec8a8628fe",
