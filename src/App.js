@@ -56,6 +56,7 @@ function App() {
   async function getAddress()  { 
     const { iconService, callBuild } = SDK
     const myAddress = await IconexConnect.getAddress()
+    console.log(myAddress)
     setMyAddress(myAddress)
     setMode(CONST.MODE['LOG_IN'])
   }
